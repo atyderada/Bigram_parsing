@@ -1,0 +1,22 @@
+{
+  "name": "bigram_parsing",
+  "version": "1.0.0",
+  "description": "Bigram Parsing exercise that outputs a histogram of all bigrams from a given text file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atyderada/Bigram_parsing.git"
+  },
+  "author": "Anthony De Rada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atyderada/Bigram_parsing/issues"
+  },
+  "homepage": "https://github.com/atyderada/Bigram_parsing#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
