@@ -18,5 +18,9 @@
   "homepage": "https://github.com/atyderada/Bigram_parsing#readme",
   "devDependencies": {
     "mocha": "^6.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "event-stream": "^4.0.1"
   }
 }
