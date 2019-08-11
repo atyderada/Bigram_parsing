@@ -4,11 +4,11 @@ CLI program that reads in a text file and outputs a bigram histogram in an outpo
 It was built using node.js and mocha/chai for testing
 
 ## How to use:
-- First clone or download project
+- First clone or download the project
 - cd into project folder
-- Run npm install to get all the required packages.
+- Run npm install to get all the required packages
 - Add the text file you wish to process to the text_files folder
-- run 'node app' to start the application
+- run 'node app' to start the application and follow the instructions
 - The bigram histogram will be printed in a file called output.txt in the output folder
 
 ## Testing:
